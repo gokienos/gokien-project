@@ -1,3 +1,6 @@
+-- Scroll down to see English version --
+
+
 ## Trang thông báo các vấn đề
 
 Đây là trang chính thức lưu trữ các vấn đề cần giải quyết.
